@@ -10,11 +10,14 @@ function draw() {
   // circle(225,200);
   // circle(375,200);
   // circle(525,200);
-
+}
     circle(75, 200, 100);
     circle(225, 200, 100);
     circle(375, 200, 100);
     circle(525, 200, 100);
+
+    for(let i=0; i<5; i++) {
+      circle(50+i*50,100,40);
 
   // Task 1: Colour Gradient
 
