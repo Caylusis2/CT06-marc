@@ -11,6 +11,7 @@ function draw() {
     fill(255,0,0);
     ellipse(100,100,80,50);
     ellipse(200,100,80,50);
+    noStroke()
 }
   // Challenge 2: A face using circle() function
     circle(300,200,150);
