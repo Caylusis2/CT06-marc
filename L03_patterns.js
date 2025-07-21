@@ -18,7 +18,7 @@ function draw() {
 
     for(let i=0; i<5; i++) {
       circle(50+i*50,100,40);
-
+    }
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
@@ -26,4 +26,3 @@ function draw() {
   // Task 3: Row of Circles
 
   // Task 4: Grid of Circles
-}
