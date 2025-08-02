@@ -53,8 +53,8 @@ let startY = (height - totalwidth)/2 + circleDiameter/2;
 for(let row = 0; row< numCircles; row++){
     let rowY = startY + (circleDiameter * row); 
 
-  for(let i = 0; i < numCircles; i++){
-    let x = startX + i * circleDiameter;
+    for(let i = 0; i < numCircles; i++){
+      let x = startX + i * circleDiameter;
     ellipse (x, rowY,circleDiameter, circleDiameter );
     // circle(x, height/2,circleDiameter);
   }
