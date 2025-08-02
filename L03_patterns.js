@@ -40,7 +40,7 @@ function setup() {
 
   // Task 4: Grid of Circles
  
-rect(0, 50, width, 100);
+  rect(0, 50, width, 100);
 
-circle(width / 2, height / 2, 50);
+  circle(width / 2, height / 2, 50);
 }
