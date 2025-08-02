@@ -43,4 +43,4 @@ function setup() {
 
 rect(0, 50, Width, 100)
 
-circle()
+circle(width / 2, height)
