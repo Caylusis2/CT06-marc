@@ -5,7 +5,7 @@ function setup() {
   }
   
 //let colourValue = 0;
-// function draw() {
+ function draw() {
 //   // Recap 1: Repeating Circles
 //   // circle(75,200);
 //   // circle(225,200);
@@ -39,5 +39,5 @@ function setup() {
   // Task 3: Row of Circles
 
   // Task 4: Grid of Circles
-// }
+ }
 
