@@ -48,6 +48,7 @@ let circleDiameter = 30;
 let numCircles = 5;
 let totalwidth = circleDiameter * numCircles;
 let startX = (width - totalwidth)/2 + circleDiameter/2;
+let startY = (height)
 
 for(let row = 0; row< numCircles; row++){
     let rowY = startY + (circleDiameter * row); 
