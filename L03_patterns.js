@@ -55,7 +55,7 @@ for(let row = 0; row< numCircles; row++){
   for(let i = 0; i < numCircles; i++){
     let x = startX + i * circleDiameter;
     ellipse (x, rowY,circleDiameter, circleDiameter);
-    
+    circle(x, height/2,circleDiameter);
   }
 }
 
