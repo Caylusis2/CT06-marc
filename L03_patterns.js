@@ -44,6 +44,7 @@ function draw() {
 
   // circle(width / 2, height / 2, 50);
 
-let circleDiameter = 30
+let circleDiameter = 30;
+let
 
 }
