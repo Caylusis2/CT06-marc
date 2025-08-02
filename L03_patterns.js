@@ -49,11 +49,14 @@ let numCircles = 5;
 let totalwidth = circleDiameter * numCircles;
 let startX = (width - totalwidth)/2 + circleDiameter/2;
 
-for(let row = 0; row< numCircles; row++){}
+for(let row = 0; row< numCircles; row++){
+    let rowY = startY + (circleDiameter * row); 
 
-for(let i = 0; i < numCircles; i++){
+  for(let i = 0; i < numCircles; i++){
     let x = startX + i * circleDiameter;
     ellipse (x, height/2,circleDiameter, circleDiameter);
     circle(x, height/2,circleDiameter);
   }
+}
+
 }
