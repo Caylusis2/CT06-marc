@@ -36,8 +36,6 @@
 //     shapeColor = color(random(255), random(255), random(255))
 // }
 
-
-// write your codes here
 // --------------------------------- task 2
 // let shapeColor ="blue";
 
