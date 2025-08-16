@@ -10,7 +10,7 @@ function setup(){
 function draw(){
     fill(shapeColor);
     // ellipse(200,200,80,80)
-    triangle()
+    triangle(200,250,280)
 }
 
 // function mousePressed(){
