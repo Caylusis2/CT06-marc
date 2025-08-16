@@ -30,7 +30,7 @@ function mousePressed(){
     y3 = random(height);
 }
 function mouseReleased(){
-    shapeColor = color(random(255), random(255), random(255))
+    shapeColor = color(220)
 }
 
 // --------------------------------- task 2
