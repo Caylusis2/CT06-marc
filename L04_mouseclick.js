@@ -1,4 +1,3 @@
-
 // ---------------------------------- task 1
 // let shapeColor = "blue";
 // let x1,y1,x2 y2,x3,y3
