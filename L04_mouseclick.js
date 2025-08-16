@@ -55,7 +55,7 @@ function draw(){
 
 function mousePressed(){
     shapeColor = color(random(255), random(255),random(255))
-    circleSize = 
+    circleSize = 20;
 }
 
 function mouseReleased(){
