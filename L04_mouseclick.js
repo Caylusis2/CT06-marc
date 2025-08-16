@@ -38,7 +38,7 @@
 
 
 // write your codes here
-
+// --------------------------------- task 2
 // let shapeColor ="blue";
 
 // let circleSize = 20;
