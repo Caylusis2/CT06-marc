@@ -66,25 +66,25 @@
 
 // ---------------------------------- task 3
 
-function setup(){
-    createCanvas(400,400)
-    background(200);
-}
+// function setup(){
+//     createCanvas(400,400)
+//     background(200);
+// }
 
-function mouseDragged(){
-    fill(shapeColor);
-    ellipse(mouseX,mouseY,circleSize,circleSize)
-}
+// function mouseDragged(){
+//     fill(shapeColor);
+//     ellipse(mouseX,mouseY,circleSize,circleSize)
+// }
 
-function mousePressed(){
-    shapeColor = color(random(255), random(255),random(255))
-    circleSize = 20;
-}
+// function mousePressed(){
+//     shapeColor = color(random(255), random(255),random(255))
+//     circleSize = 20;
+// }
 
-function mouseReleased(){
-    shapeColor = "blue"
-}
+// function mouseReleased(){
+//     shapeColor = "blue"
+// }
 
-function mouseMoved(){
-    circleSize += 2
-}
+// function mouseMoved(){
+//     circleSize += 2
+// }
