@@ -66,3 +66,15 @@
 
 // ---------------------------------- task 3
 
+function mousePressed(){
+    shapeColor = color(random(255), random(255),random(255))
+    circleSize = 20;
+}
+
+function mouseReleased(){
+    shapeColor = "blue"
+}
+
+function mouseMoved(){
+    circleSize += 2
+}
