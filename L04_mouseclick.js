@@ -50,7 +50,7 @@ function setup(){
 
 function draw(){
     fill(shapeColor);
-    ellipse(200,200,circleSize,) 
+    ellipse(200,200,circleSize,circleSize) 
 }
 
 function mousePressed(){
