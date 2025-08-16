@@ -9,8 +9,7 @@ function setup(){
 
 function draw(){
     background(220);
-    fill(shapeColor);
-    // ellipse(200,200,80,80)
+    fill(shapeColor);    
     if(mousePressed){
     triangle(x1,y1,x2, y2,x3,y3);
     }
