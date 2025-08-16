@@ -19,8 +19,8 @@ function draw(){
 //     shapeColor = "yellow"
 // }
 function mousePressed(){
-    shapeColor = Color(random(255), random(255), random(255))
+    shapeColor = color(random(255), random(255), random(255))
 }
 function mouseReleased(){
-    shapeColor = Color(random(255), random(255), random(255))
+    shapeColor = color(random(255), random(255), random(255))
 }
