@@ -19,5 +19,5 @@ function mouseReleased(){
     shapeColor = "yellow"
 }
 function mouseReleased(){
-    shapeColor = randomfill(255)
+    shapeColor = color
 }
