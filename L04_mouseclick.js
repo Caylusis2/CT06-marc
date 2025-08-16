@@ -66,6 +66,11 @@
 
 // ---------------------------------- task 3
 
+function setup(){
+    createCanvas(400,400)
+    background(200);
+}
+
 function mouseDragged(){
     fill(shapeColor);
     ellipse(mouseX,mouseY,circleSize,circleSize)
