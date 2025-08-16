@@ -1,6 +1,6 @@
 // write your codes here
 
-let c
+let shapeColor 
 
 function setup(){
     createCanvas(400,400)
