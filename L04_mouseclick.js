@@ -1,5 +1,7 @@
 // write your codes here
 
+let c
+
 function setup(){
     createCanvas(400,400)
     background(200);
