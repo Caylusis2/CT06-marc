@@ -41,6 +41,7 @@
 
 // let shapeColor ="blue";
 
+let circle
 
 function setup(){
     createCanvas(400,400)
