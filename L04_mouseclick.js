@@ -8,6 +8,7 @@ function setup(){
 }
 
 function draw(){
+    background(220);
     fill(shapeColor);
     // ellipse(200,200,80,80)
     if(mousePressed){
