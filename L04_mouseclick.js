@@ -18,6 +18,6 @@ function draw(){
 function mouseReleased(){
     shapeColor = "yellow"
 }
-function mouseReleased(){
+function mousePressed(){
     shapeColor = color(random(255))
 }
