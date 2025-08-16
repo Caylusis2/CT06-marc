@@ -49,7 +49,7 @@ function setup(){
 }
 
 function draw(){
-    background(220)
+    background(220);
     fill(shapeColor);
     ellipse(mouseX,mouseY,circleSize,circleSize) 
 }
