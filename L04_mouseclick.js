@@ -8,6 +8,6 @@ function setup(){
 }
 
 function draw(){
-    fillshapeColor
+    fill(shapeColor)
     ellipse(200,200,80,80)
 }
