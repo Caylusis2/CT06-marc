@@ -59,7 +59,7 @@ function mousePressed(){
 }
 
 function mouseReleased(){
-    shapeColor = color(random(255), random(255),random(255))
+    shapeColor = "blue"
 }
 
 function mouseMoved(){
