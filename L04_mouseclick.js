@@ -59,4 +59,6 @@
 //     shapeColor = color(random(255), random(255),random(255))
 // }
 
-function mouseMoved(){}
+function mouseMoved(){
+    circleSize += 2
+}
