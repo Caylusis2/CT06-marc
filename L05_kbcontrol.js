@@ -7,12 +7,12 @@ function setup(){
 function draw(){
 }
 
-function mousepressed(){
+function mousePressed(){
     shapeColor = colour(random(255), random(255), random(255));
     size = 5;
 }
 
-function mousedragged(){
+function mouseDragged(){
     circle(mouseX, mouseY, size);
     size += 0.3;
 }
