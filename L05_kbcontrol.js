@@ -8,7 +8,9 @@ function setup(){
 
 function draw(){
     // circle(width/2, height/2, 100);
-    for(let i=0; i<5; i++) {}
+    for(let i=0; i<5; i++) {
+        circle(50 + i*50, 50 + i*50, 50);
+    }
 }
 
 // function mousePressed(){
