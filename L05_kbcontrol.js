@@ -1,8 +1,8 @@
 // let size = 5;
 
 function setup(){
-    createCanvas(400,400)
-    background(200);
+    createCanvas(600,600)
+    background(220);
     // noStroke();
 }
 
