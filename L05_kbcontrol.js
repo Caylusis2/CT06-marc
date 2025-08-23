@@ -7,7 +7,7 @@ function setup(){
 }
 
 function draw(){
-    circle(width/2, height/2, 100)
+    circle(width/2, height/2, 100);
 }
 
 // function mousePressed(){
