@@ -6,9 +6,11 @@ function setup(){
     // noStroke();
 }
 
-// function draw(){
-
-// }
+function draw(){
+fill(255,0,0);
+    stroke(53,200,255);
+    strokeWeight(5);
+}
 
 // function mousePressed(){
 //     fill(random(255), random(255), random(255));
