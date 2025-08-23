@@ -5,7 +5,7 @@ function setup(){
 
 function draw(){
     background(200);
-    fill()
+    fill(shapeColor);
 }
 
 function mousepressed(){
