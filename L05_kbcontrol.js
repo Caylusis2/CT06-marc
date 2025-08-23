@@ -24,6 +24,8 @@
 //     size += 0.3;
 // }
 
+let rect
+
 function setup(){
     createCanvas(600,600)
 }
