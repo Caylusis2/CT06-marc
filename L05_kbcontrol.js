@@ -1,18 +1,18 @@
 // let size = 5;
 
-function setup(){
-    createCanvas(600,600)
-    background(220);
-    // noStroke();
-}
+// function setup(){
+//     createCanvas(600,600)
+//     background(220);
+//     // noStroke();
+// }
 
-function draw(){
-    // circle(width/2, height/2, 100);
-    for(let i=0; i<5; i++) {
-        fill(0, i*50, 0);
-        circle(50 + i*50, 50 + i*50, 50);
-    }
-}
+// function draw(){
+//     // circle(width/2, height/2, 100);
+//     for(let i=0; i<5; i++) {
+//         fill(0, i*50, 0);
+//         circle(50 + i*50, 50 + i*50, 50);
+//     }
+// }
 
 // function mousePressed(){
 //     fill(random(255), random(255), random(255));
@@ -24,3 +24,5 @@ function draw(){
 //     size += 0.3;
 // }
 
+function setup(){
+    
