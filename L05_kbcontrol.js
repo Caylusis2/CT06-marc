@@ -1,4 +1,4 @@
-let size
+let size = 5;
 
 function setup(){
     createCanvas(400,400)
