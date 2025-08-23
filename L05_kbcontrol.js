@@ -6,6 +6,7 @@ function setup(){
 function draw(){
     background(200);
     fill(shapeColor);
+    ellipse()
 }
 
 function mousepressed(){
