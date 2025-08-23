@@ -29,5 +29,5 @@ function setup(){
 }
 
 function draw(){
-    background()
+    background(220);
 }
