@@ -14,3 +14,5 @@ function mousepressed(){
     fill = colour(random(255), random(255), random(255));
     size = 5;
 }
+
+function mousedragged(){}
