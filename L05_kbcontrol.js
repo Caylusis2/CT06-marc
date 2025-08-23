@@ -8,7 +8,7 @@ function draw(){
 }
 
 function mousePressed(){
-    shapeColor = colour(random(255), random(255), random(255));
+    fill = colour(random(255), random(255), random(255));
     size = 5;
 }
 
