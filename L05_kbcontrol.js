@@ -9,7 +9,7 @@ function setup(){
 function draw(){
     // circle(width/2, height/2, 100);
     for(let i=0; i<5; i++) {
-        fill();
+        fill(0, i*50, 0);
         circle(50 + i*50, 50 + i*50, 50);
     }
 }
