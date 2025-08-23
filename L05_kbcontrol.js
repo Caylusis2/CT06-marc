@@ -1,7 +1,7 @@
 function setup(){
     createCanvas(400,400)
     background(200);
-    noStroke()
+    noStroke();
 }
 
 function draw(){
