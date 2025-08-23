@@ -10,6 +10,5 @@ function draw(){
 }
 
 function mousepressed(){
-    shape
-
+    shapeColour = colour()
 }
