@@ -10,5 +10,6 @@ function draw(){
 }
 
 function mousepressed(){
+    shape
 
 }
