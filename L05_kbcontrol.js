@@ -36,3 +36,7 @@ function draw(){
 function keyPressed(){
     rectSize = 100;
 }
+
+function keyReleased(){
+    rectSize = 50;
+}
