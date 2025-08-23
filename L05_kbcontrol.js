@@ -19,4 +19,4 @@ function setup(){
 //     size += 0.3;
 // }
 
-circle()
+circle(100,100,100)
