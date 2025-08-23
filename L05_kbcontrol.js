@@ -33,4 +33,6 @@ function draw(){
     rect(width/2 - rectSize/2, height/2 - rectSize/2, rectSize, rectSize);
 }
 
-function keyPressed()
+function keyPressed(){
+    rectSize = 100;
+}
