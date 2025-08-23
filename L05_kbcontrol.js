@@ -5,7 +5,6 @@ function setup(){
 }
 
 function draw(){
-
 }
 
 function mousepressed(){
