@@ -20,4 +20,3 @@ function draw(){
 //     size += 0.3;
 // }
 
-circle(300,200,150)
