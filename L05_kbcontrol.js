@@ -7,3 +7,5 @@ function draw(){
 background(200);
 
 }
+
+function mousepressed()
