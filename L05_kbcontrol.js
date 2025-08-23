@@ -15,4 +15,7 @@ function mousepressed(){
     size = 5;
 }
 
-function mousedragged(){}
+function mousedragged(){
+    
+
+}
