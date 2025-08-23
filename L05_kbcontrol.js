@@ -30,5 +30,5 @@ function setup(){
 
 function draw(){
     background(220);
-    React(width/2)
+    rect(width/2 - rectSize/2)
 }
