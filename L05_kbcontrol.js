@@ -16,6 +16,6 @@ function mousepressed(){
 }
 
 function mousedragged(){
-    circle()
+    circle(mouseX, mouseY, size);
 
 }
