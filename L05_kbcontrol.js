@@ -80,8 +80,8 @@ function draw(){
     }
     else if(keyCode === 82){
         fill(255,0,0);
-    } else if (keyCode === 37){
-        fill(0,169,0);
+    } else if (keyCode === 71){
+        fill(0,128,0);
     }else{
         fill(0,120,0);
     }
