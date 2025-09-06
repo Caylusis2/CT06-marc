@@ -57,7 +57,7 @@ function draw() {
         circle(width/2, height/2, 100); 
     }
     if(key == "s"){
-        square(width/2 - rectSize/2, height/2 - rectSize/2, rectSize, rectSize);
+        rect(width/2 - rectSize/2, height/2 - rectSize/2, rectSize, rectSize);
     }
     if(key == "t"){
         triangle(60,60,90,90,100,120);
