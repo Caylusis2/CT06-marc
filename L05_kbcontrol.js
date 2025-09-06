@@ -54,6 +54,7 @@ function draw() {
     background(220);
     if(showCircle){
         Circle(width/2, height/2, 100);
+        
     }
 }
 
