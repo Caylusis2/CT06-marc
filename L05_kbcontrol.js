@@ -55,7 +55,7 @@ function draw() {
     if(showCircle){
         circle(width/2, height/2, 100); 
         square(width/2 - rectSize/2, height/2 - rectSize/2, rectSize, rectSize);
-        triangle()
+        triangle(width/2 - rect)
     }
 }
 
