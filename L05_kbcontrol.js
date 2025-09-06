@@ -53,7 +53,7 @@ function setup(){
 function draw() {
     background(220);
     if(showCircle){
-        showCircle(width/2, height/2, 100);
+        Circle(width/2, height/2, 100);
     }
 }
 
