@@ -73,3 +73,15 @@
 function setup(){
     createCanvas(600,400);
 }
+function draw(){
+    circle(width/2, height/2, 100);
+    if(keyCode === UP_ARROW){
+        fill(255,0,0);
+    }
+    else if(keyCode === 40){
+        fill(255,0,0);
+    } else if (keyCode === 37){
+        fill(255,0,0);
+    }else{
+        fill(0,120,0);
+    }
