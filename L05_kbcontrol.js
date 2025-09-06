@@ -56,7 +56,7 @@
 //     if(keyCode == 67){
 //         circle(width/2, height/2, 100); 
 //     }
-//     if(key == "s"){
+//     if(keyCode == 68){
 //         rect(width/2 - rectSize/2, height/2 - rectSize/2, rectSize, rectSize);
 //     }
 //     if(keyCode == UPPER_ARROW){
