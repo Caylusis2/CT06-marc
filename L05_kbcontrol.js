@@ -46,9 +46,19 @@
 let rectSize = 50;
 let showCircle = false;
 
-function draw() {
+function setup(){
     createCanvas(600,400);
+}
+
+function draw() {
+    background(220);
     if(showCircle){
         showCircle(width/2, height/2, 100);
+    }
+}
+
+function keypressed(){
+    if(key == "c"){
+        showCircle = !showCircle;
     }
 }
