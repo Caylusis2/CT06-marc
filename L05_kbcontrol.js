@@ -70,22 +70,22 @@
 //     }
 // }
 
-function setup(){
-    createCanvas(200,200);
-}
-function draw(){
-    circle(width/2, height/2, 100);
-    if(keyCode === 87){
-        fill(255,255,255);
-    }
-    else if(keyCode === 82){
-        fill(255,0,0);
-    } else if (keyCode === 71){
-        fill(0,128,0);
-    }else{
-        fill(255,255,0);
-    }
-}
+// function setup(){
+//     createCanvas(200,200);
+// }
+// function draw(){
+//     circle(width/2, height/2, 100);
+//     if(keyCode === 87){
+//         fill(255,255,255);
+//     }
+//     else if(keyCode === 82){
+//         fill(255,0,0);
+//     } else if (keyCode === 71){
+//         fill(0,128,0);
+//     }else{
+//         fill(255,255,0);
+//     }
+// }
 
 function setup(){
     createCanvas(600,400);
