@@ -32,7 +32,7 @@
 
 // function draw(){
 //     background(220);
-//     rect(width/2 - rectSize/2, height/2 - rectSize/2, rectSize, rectSize);
+    rect(width/2 - rectSize/2, height/2 - rectSize/2, rectSize, rectSize);
 // }
 
 // function keyPressed(){
@@ -53,7 +53,10 @@ function setup(){
 function draw() {
     background(220);
     if(showCircle){
-        circle(width/2, height/2, 100);    
+        circle(width/2, height/2, 100); 
+    if(showSquare){
+        square(width/2 - rectSize/2, height/2 - rectSize/2, rectSize, rectSize);
+    }
     }
 }
 
