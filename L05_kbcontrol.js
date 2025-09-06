@@ -44,4 +44,6 @@
 // }
 
 let rectSize = 50;
-let showCircle = 
+let showCircle = false;
+
+function draw(){}
