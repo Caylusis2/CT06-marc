@@ -64,8 +64,8 @@ function draw() {
     }
 }
 
-function keypressed(){
-    if(key == "c"){
-        showCircle = !showCircle;
-    }
-}
+// function keypressed(){
+//     if(key == "c"){
+//         showCircle = !showCircle;
+//     }
+// }
