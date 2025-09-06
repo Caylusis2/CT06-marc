@@ -59,7 +59,7 @@
 //     if(keyCode == 68){
 //         rect(width/2 - rectSize/2, height/2 - rectSize/2, rectSize, rectSize);
 //     }
-//     if(keyCode == UPPER_ARROW){
+//     if(keyCode == UP_ARROW){
 //         triangle(60,60,90,90,100,120);
 //     }
 // }
