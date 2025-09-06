@@ -83,6 +83,6 @@ function draw(){
     } else if (keyCode === 71){
         fill(0,128,0);
     }else{
-        fill(0,120,0);
+        fill(255,255,0);
     }
 }
