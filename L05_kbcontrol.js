@@ -59,10 +59,10 @@ function draw() {
     if(key == "s"){
         square(width/2 - rectSize/2, height/2 - rectSize/2, rectSize, rectSize);
     }
-    if(key == "t")
+    if(key == "t"){
         triangle(20,30,60,60,100,300);
     }
-// }
+}
 
 function keypressed(){
     if(key == "c"){
