@@ -43,29 +43,30 @@
 //     rectSize = 50;
 // }
 
-let rectSize = 50;
-let showCircle = false;
+// let rectSize = 50;
+// let showCircle = false;
 
-function setup(){
-    createCanvas(600,400);
-}
+// function setup(){
+//     createCanvas(600,400);
+// }
 
-function draw() {
-    background(220);
-    // if(showCircle){
-    if(keyCode == 67){
-        circle(width/2, height/2, 100); 
-    }
-    if(key == "s"){
-        rect(width/2 - rectSize/2, height/2 - rectSize/2, rectSize, rectSize);
-    }
-    if(key == "t"){
-        triangle(60,60,90,90,100,120);
-    }
-}
+// function draw() {
+//     background(220);
+//     // if(showCircle){
+//     if(keyCode == 67){
+//         circle(width/2, height/2, 100); 
+//     }
+//     if(key == "s"){
+//         rect(width/2 - rectSize/2, height/2 - rectSize/2, rectSize, rectSize);
+//     }
+//     if(key == "t"){
+//         triangle(60,60,90,90,100,120);
+//     }
+// }
 
 // function keypressed(){
 //     if(key == "c"){
 //         showCircle = !showCircle;
 //     }
 // }
+
