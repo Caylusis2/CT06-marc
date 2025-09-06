@@ -71,7 +71,7 @@
 // }
 
 function setup(){
-    createCanvas(600,400);
+    createCanvas(200,200);
 }
 function draw(){
     circle(width/2, height/2, 100);
