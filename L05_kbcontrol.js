@@ -43,3 +43,4 @@
 //     rectSize = 50;
 // }
 
+console.log(1 ==)
