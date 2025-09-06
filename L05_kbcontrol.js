@@ -56,8 +56,8 @@ function draw() {
     if(key == "c"){
         circle(width/2, height/2, 100); 
     }
-    if(key == "s")  
-    square(width/2 - rectSize/2, height/2 - rectSize/2, rectSize, rectSize);
+    if(key == "s"){} 
+    
         triangle(20,30,60,60,100,300);
     }
 // }
