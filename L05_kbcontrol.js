@@ -43,4 +43,4 @@
 //     rectSize = 50;
 // }
 
-let rectSize
+let rectSize = 50;
