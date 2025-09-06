@@ -60,7 +60,7 @@ function draw() {
         square(width/2 - rectSize/2, height/2 - rectSize/2, rectSize, rectSize);
     }
     if(key == "t"){
-        triangle(60,60,60,60,100,300);
+        triangle(60,60,90,90,100,300);
     }
 }
 
