@@ -76,10 +76,10 @@ function setup(){
 function draw(){
     circle(width/2, height/2, 100);
     if(keyCode === 87){
-        fill(255,255,0);
+        fill(255,255,255);
     }
-    else if(keyCode === 40){
-        fill(0,0,0);
+    else if(keyCode === 82){
+        fill(255,0,);
     } else if (keyCode === 37){
         fill(0,169,0);
     }else{
