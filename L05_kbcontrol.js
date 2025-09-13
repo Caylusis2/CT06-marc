@@ -94,3 +94,4 @@
 
 let staticImage;
 
+function preload(){}
