@@ -1,3 +1,8 @@
 // write your codes here
 
-let 
+let staticImage;
+
+function preload(){
+    staticImage = loadImage('assets/pico-a.png');
+}
+

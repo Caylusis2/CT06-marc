@@ -92,6 +92,3 @@
 // }
 
 
-let staticImage;
-
-function preload(){}
