@@ -92,4 +92,5 @@
 // }
 
 
-let static image;
+let staticImage;
+
