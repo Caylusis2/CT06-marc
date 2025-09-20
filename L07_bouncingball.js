@@ -1,6 +1,7 @@
 // write your codes here
 
-let staticImage
+let staticImage,soundEffect;
+
 
 function setup(){
     createCanvas(200,200);
