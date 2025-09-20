@@ -58,7 +58,7 @@ function draw(){
     background(220);
 
     ballX +=ballSpeedX;
-    ballY +=ballSpeedY;
+    ballY = ballSpeedY;
 
     noStroke();
     fill(349);
