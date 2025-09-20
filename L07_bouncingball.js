@@ -6,3 +6,8 @@ function preload(){
     soundeffect = loadSound('assets/pop.mp3');
 }
 
+// function keyPressed(){
+//     if(keyCode === 32){
+//         soundEffect.play();
+//     }
+// }
