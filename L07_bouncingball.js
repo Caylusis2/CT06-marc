@@ -44,7 +44,6 @@
 // }
 
 
-
 let ballX = 300;
 let ballY = 200;
 let ballSize = 30;
