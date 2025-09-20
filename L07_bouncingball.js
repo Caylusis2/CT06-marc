@@ -2,7 +2,7 @@
 
 function setup(){
     createCanvas(200,200);
-    background('lightblue')
+    background('lightblue');
 }
 
 let staticImage,soundEffect;
