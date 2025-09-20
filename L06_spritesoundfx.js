@@ -23,8 +23,17 @@ function keyPressed(){
 let d = 50;
 let x = 50;
 let y = 50;
+let colour = 0;
+function setup(){
+    createCanvas(600,600);
+    background(200);
+}
 function setup(){
     for(let i=0; i<10;i++){
-        circle(x,y)
+        fill(colour)
+        circle(x,y,d);
+        x = 50 + 50*i;
+        y = 50 + 50*i;
+        colour = 25*i;
     }
 }
