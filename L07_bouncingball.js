@@ -54,3 +54,13 @@ function setup(){
     createCanvas(600,400);
 }
 
+function draw(){
+    background(220);
+
+    ballX +=ballSpeedX;
+    ballY +=ballSpeedY;
+
+    noStroke();
+    fill(349);
+    circle(ballX,ballY,ballSize);
+}
