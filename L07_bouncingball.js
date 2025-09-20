@@ -9,7 +9,7 @@ function setup(){
 
 function draw(){
     background('lightblue');
-    image(staticImage)
+    image(staticImage,x,y)
 }
 
 function keyPressed(){
