@@ -1,24 +1,24 @@
 // write your codes here
 
-let staticImage,soundEffect,backgroundSound;
-function preload(){
-    staticImage = loadImage('assets/pico-a.png');
-    soundeffect = loadSound('assets/pop.mp3');
-    backgroundSound = loadSound('assets/bossaNova.mp3')
-}
+// let staticImage,soundEffect,backgroundSound;
+// function preload(){
+//     staticImage = loadImage('assets/pico-a.png');
+//     soundeffect = loadSound('assets/pop.mp3');
+//     backgroundSound = loadSound('assets/bossaNova.mp3')
+// }
 
-function setup(){
-    createCanvas(200,200);
-    background('lightblue');
-    image(staticImage,0,0,100,100);
-    backgroundSound.loop();
-}
+// function setup(){
+//     createCanvas(200,200);
+//     background('lightblue');
+//     image(staticImage,0,0,100,100);
+//     backgroundSound.loop();
+// }
 
-function keyPressed(){
-    if(keyCode === 32){
-        soundEffect.play();
-    }
-}
+// function keyPressed(){
+//     if(keyCode === 32){
+//         soundEffect.play();
+//     }
+// }
 
 // test question #2 (mid sem)(oeq)
 
