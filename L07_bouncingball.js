@@ -5,7 +5,7 @@ function setup(){
     background('lightblue');
 }
 
-function preload(){
+function draw(){
     staticImage = loadImage('assets/pico-a.png');
     soundeffect = loadSound('assets/pop.mp3');
 }
