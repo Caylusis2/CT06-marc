@@ -44,7 +44,7 @@
 // }
 
 function setup(){
-    createCanvas(600,200);
+    createCanvas(600,400);
     background('lightgrey');
 }
 
