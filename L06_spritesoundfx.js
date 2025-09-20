@@ -18,3 +18,4 @@ function keyPressed(){
     }
 }
 
+// test question #2 (mid sem)
