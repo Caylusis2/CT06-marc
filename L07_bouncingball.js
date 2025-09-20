@@ -6,8 +6,8 @@ function setup(){
 }
 
 function draw(){
-    staticImage = loadImage('assets/pico-a.png');
-    soundeffect = loadSound('assets/pop.mp3');
+    background('lightblue');
+    
 }
 
 function keyPressed(){
