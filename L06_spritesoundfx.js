@@ -22,7 +22,7 @@ function keyPressed(){
 
 let d = 50;
 let x = 50;
-let y
+let y = 50;
 function setup(){
     for(let i=0; i<10;i++){
         circle(x,y)
