@@ -43,7 +43,10 @@
 
 // }
 
-
+function setup(){
+    createCanvas(200,200);
+    background('lightblue');
+}
 
 let ballX = 300;
 let ballY = 200;
