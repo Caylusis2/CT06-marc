@@ -44,23 +44,23 @@
 // }
 
 
-let ballX = 300;
-let ballY = 200;
-let ballSize = 30;
-let ballSpeedX = 1;
-let ballSpeedY = 1;
+// let ballX = 300;
+// let ballY = 200;
+// let ballSize = 30;
+// let ballSpeedX = 1;
+// let ballSpeedY = 1;
 
-function setup(){
-    createCanvas(600,400);
-}
+// function setup(){
+//     createCanvas(600,400);
+// }
 
-function draw(){
-    background(220);
+// function draw(){
+//     background(220);
 
-    ballX +=ballSpeedX;
-    ballY = ballY + ballSpeedY;
+//     ballX +=ballSpeedX;
+//     ballY = ballY + ballSpeedY;
 
-    noStroke();
-    fill(349);
-    circle(ballX,ballY,ballSize);
-}
+//     noStroke();
+//     fill(349);
+//     circle(ballX,ballY,ballSize);
+// }
