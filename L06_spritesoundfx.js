@@ -4,7 +4,7 @@ let staticImage,soundEffect,backgroundSound;
 function preload(){
     staticImage = loadImage('assets/pico-a.png');
     soundeffect = loadSound('assets/pop.mp3');
-    backgroundSound = loadSound('assets')
+    backgroundSound = loadSound('assets/bossaNova.mp3')
 }
 
 function setup(){
