@@ -44,8 +44,8 @@
 // }
 
 function setup(){
-    createCanvas(200,200);
-    background('lightblue');
+    createCanvas(600,200);
+    background('lightgrey');
 }
 
 let ballX = 300;
