@@ -1,6 +1,6 @@
 // write your codes here
 
-let staticImage;
+let staticImage,sound
 
 function preload(){
     staticImage = loadImage('assets/pico-a.png');
