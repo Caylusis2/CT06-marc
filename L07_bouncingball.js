@@ -37,3 +37,8 @@ function keyPressed(){
        w = 50;
     }
 }
+
+function keyReleased(){
+    w = 100;
+
+}
