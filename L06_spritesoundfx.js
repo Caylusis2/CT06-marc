@@ -21,6 +21,8 @@ function keyPressed(){
 // test question #2 (mid sem)(oeq)
 
 let d = 50;
+let x = 50;
+let y
 function setup(){
     for(let i=0; i<10;i++){
         circle(x,y)
