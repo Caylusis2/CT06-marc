@@ -44,8 +44,8 @@
 // }
 
 
-let ballX = 300;
-let ballY = 200;
+let ballX = 30;
+let ballY = 20;
 let ballSize = 30;
 let ballSpeedX = 1;
 let ballSpeedY = 1;
