@@ -34,6 +34,6 @@ function draw(){
 
 function keyPressed(){
     if(keyCode === 32){
-        w = 50;
+       w = 50;
     }
 }
