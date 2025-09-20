@@ -4,7 +4,7 @@ let staticImage,soundEffect;
 let x = 50;
 let y = 50;
 let w = 100;
-let 
+let h = 100;
 
 function setup(){
     createCanvas(200,200);
