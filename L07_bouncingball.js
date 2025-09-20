@@ -2,7 +2,9 @@
 
 let staticImage,soundEffect;
 let x = 50;
-let
+let y = 50;
+let w = 100;
+let 
 
 function setup(){
     createCanvas(200,200);
