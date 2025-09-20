@@ -7,7 +7,7 @@ function setup(){
 
 function draw(){
     background('lightblue');
-    Image(staticImage)
+    image(staticImage)
 }
 
 function keyPressed(){
