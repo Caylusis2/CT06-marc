@@ -18,5 +18,11 @@ function keyPressed(){
     }
 }
 
-// test question #2 (mid sem)(o)
+// test question #2 (mid sem)(oeq)
 
+let d = 50;
+function setup(){
+    for(let i=0; i<10;i++){
+        circle(x,y)
+    }
+}
