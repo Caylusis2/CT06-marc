@@ -2,3 +2,4 @@
 
 let X = 200;
 let Y = 300;
+let SpeedX = 2;
