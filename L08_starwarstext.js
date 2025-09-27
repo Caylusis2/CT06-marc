@@ -17,3 +17,9 @@
 //     rect(X, Y, 50, 50);
 // }
 
+function setup(){
+    createCanvas(400,400);
+    background(220);
+    textSize(100);
+    text("Hello, p5.js!", 0, 200);
+}
