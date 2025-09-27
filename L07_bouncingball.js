@@ -65,12 +65,15 @@
 //     circle(ballX,ballY,ballSize);
 // }
 
-function setup(){
-    createCanvas(600,400);
-    background(220);
-}
+// function setup(){
+//     createCanvas(600,400);
+//     background(220);
+// }
 
-function draw(){
-    ballX += ballSpeedX;
-    ballY = ballY + ballSpeedY;
-}
+// function draw(){
+//     ballX += ballSpeedX;
+//     ballY = ballY + ballSpeedY;
+
+//     if(ballX - ballSize/2 <=0 )
+// }
+
