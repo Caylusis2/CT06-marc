@@ -65,3 +65,4 @@
 //     circle(ballX,ballY,ballSize);
 // }
 
+function setup(){}
