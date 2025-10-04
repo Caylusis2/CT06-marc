@@ -13,6 +13,6 @@ function draw(){
     background(220);
     fill(0);
     for(let i = 0; i < favoriteFoods.length; i++){
-        text((i + 1) + "." + favoriteFoods[i],50,80 + i*30);
+        text((i + 1) + "." + favoriteFoods[i],300,80 + i*30);
     }
 }
