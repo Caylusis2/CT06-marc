@@ -6,7 +6,7 @@ function setup(){
     background(220);
     textSize(34);
     textAlign(RIGHT,BOTTOM);
-    text(favoriteFoods, 100,30);
+    text(favoriteFoods, 0,0);
 
 }
 function draw(){
