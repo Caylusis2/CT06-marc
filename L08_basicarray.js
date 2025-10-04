@@ -15,3 +15,4 @@ function draw(){
         text((i + 1) + "." + favoriteFoods[i],300,80 + i*30);
     }
 }
+
