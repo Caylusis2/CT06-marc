@@ -18,3 +18,4 @@ function draw(){
     yPos -=0.6;
 }
 
+{}
