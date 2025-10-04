@@ -5,7 +5,7 @@ function setup(){
     createCanvas(400,400);
     background(220);
     textSize(34);
-    textAlign(CENTER,CENTER);
+    textAlign(RIGHT,CENTER);
     text(favoriteFoods, 100,30);
 
 }
