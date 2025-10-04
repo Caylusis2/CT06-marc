@@ -16,4 +16,3 @@ function draw(){
     }
 }
 
-let 
