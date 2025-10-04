@@ -1,3 +1,3 @@
 // write your codes here
 
-let favoriteFoods = {}
+let favoriteFoods = ["pizza"]
