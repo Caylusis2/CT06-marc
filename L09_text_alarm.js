@@ -14,6 +14,8 @@ function draw(){
     let stringTime = (h, 2) + ":" + nf(m, 2) + ":" + nf(s, 2);
     fill(0);
     textSize(46);
+
+    if( timer == 0
     text(stringTime, width/2, height/2 - 50);
 
     text(countdown, wdith/2, height/2 + 20)
