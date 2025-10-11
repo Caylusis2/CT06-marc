@@ -14,7 +14,7 @@ function draw(){
     let stringTime = (h, 2) + ":" + nf(m, 2) + ":" + nf(s, 2);
     fill(0);
     textSize(46);
-    text(stringTime, width/2, height/2);
+    text(stringTime, width/2, height/2 -50);
 
 
 }
