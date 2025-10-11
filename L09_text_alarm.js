@@ -4,6 +4,7 @@ function setup(){
     createCanvas(600,400);
     textAlign(CENTER,CENTER);
 }
+let countdown = 5;
 let 
 function draw(){
     background(225);
