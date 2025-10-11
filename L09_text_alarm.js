@@ -5,6 +5,7 @@ function setup(){
     textAlign(CENTER,CENTER);
 }
 let countdown = 5;
+let interval;
 let 
 function draw(){
     background(225);
