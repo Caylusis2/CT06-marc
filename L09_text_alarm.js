@@ -6,7 +6,8 @@ function setup(){
 }
 let countdown = 5;
 let interval;
-let 
+let bgcolour;
+
 function draw(){
     background(225);
     let h = hour();
