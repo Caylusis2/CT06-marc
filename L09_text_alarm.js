@@ -1,12 +1,11 @@
 // write your codes here
-
+let countdown = 5;
+let interval;
+let bgcolour;
 function setup(){
     createCanvas(600,400);
     textAlign(CENTER,CENTER);
 }
-let countdown = 5;
-let interval;
-let bgcolour;
 
 function draw(){
     background(225);
