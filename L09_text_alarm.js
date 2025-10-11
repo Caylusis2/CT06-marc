@@ -18,6 +18,7 @@ function draw(){
     if( countdown == 0 ){
         bgcolor = color(random(255), random(255), random(255));
     }
+    
     text(stringTime, width/2, height/2 - 50);
 
     text(countdown, wdith/2, height/2 + 20)
