@@ -31,4 +31,3 @@ function updateCountdown(){
         timerStarted = false;
     }
 }
-
