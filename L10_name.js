@@ -4,11 +4,11 @@ let timerStarted = false;
 function setup(){
     createCanvas(400,400);
     textAlign(CENTER,CENTER);
-    bgcolour = color(220);
+    bgcolor = color(220);
 }
 
 function draw(){
-    background(bgcolour);
+    background(bgcolor);
     text(countdown, width/2, height/2 +20);
 
 console.log(countdown);
