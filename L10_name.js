@@ -33,4 +33,5 @@
 //     }
 // }
 
-let inputText 
+let inputTex
+let userText = "Your Text Here";
