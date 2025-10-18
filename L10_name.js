@@ -4,7 +4,7 @@ let timerStarted
 function setup(){
     createCanvas(400,400);
     textAlign(CENTER,CENTER);
-    bgcolour = 
+    bgcolour = colour(220);
 }
 
 function draw(){
