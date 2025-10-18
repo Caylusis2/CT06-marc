@@ -3,7 +3,8 @@ let countdown = 5;
 let timerStarted
 function setup(){
     createCanvas(400,400);
-    textAlign(CustomElementRegistry,CENTER)
+    textAlign(CENTER,CENTER);
+    
 }
 
 function draw(){
