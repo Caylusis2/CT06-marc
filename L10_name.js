@@ -26,7 +26,7 @@ function updateCountdown(){
     }else{
         clearInterval(interval);
         countdown = 5;
-        
+        timerStarted = false;
     }
 }
 
