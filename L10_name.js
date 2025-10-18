@@ -33,5 +33,7 @@
 //     }
 // }
 
-let inputTex
+let inputText;
 let userText = "Your Text Here";
+
+functio
