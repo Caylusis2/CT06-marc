@@ -41,4 +41,4 @@ function setup(){
 }
 
 inputText = createInput();
-inputText.position()
+inputText.position(200, height -80);
