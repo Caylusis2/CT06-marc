@@ -33,4 +33,4 @@
 //     }
 // }
 
-letinput
+let inputText 
