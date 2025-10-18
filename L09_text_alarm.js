@@ -23,9 +23,7 @@ function draw(){
 
     text(stringTime, width/2, height/2 - 50);
 
-    text(countdown, wdith/2, height/2 + 20)
-
-
+    text(countdown, wdith/2, height/2 + 20);
 }
 
 function mousePressed(){
