@@ -33,27 +33,27 @@
 //     }
 // }
 
-let inputText;
-let userText = "Your Text Here";
+// let inputText;
+// let userText = "Your Text Here";
 
-function setup(){
-    createCanvas(600,400);
+// function setup(){
+//     createCanvas(600,400);
 
 
-    inputText = createInput();
-    inputText.position(200, height -80);
-    inputText.input(updateText);
-}
+//     inputText = createInput();
+//     inputText.position(200, height -80);
+//     inputText.input(updateText);
+// }
 
-function draw(){
-    background(220);
+// function draw(){
+//     background(220);
 
-    fill(0);
-    textSize(28);
-    textAlign(CENTER,CENTER);
-    text(userText, width/2, 180);
-}
+//     fill(0);
+//     textSize(28);
+//     textAlign(CENTER,CENTER);
+//     text(userText, width/2, 180);
+// }
 
-function updateText(){
-    userText = this.value();
-}
+// function updateText(){
+//     userText = this.value();
+// }
