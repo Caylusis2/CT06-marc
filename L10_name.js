@@ -23,6 +23,7 @@ function mousePressed(){
 function updateCountdown(){
     if(countdown > 0){
         countdown-=1;
+        bgcolor = color
         console.log(countdown);
     }else{
         clearInterval(interval);
