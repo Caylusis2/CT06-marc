@@ -1,5 +1,6 @@
 // write your codes here
-
+let countdown = 5;
+let timer
 function setup(){
     createCanvas(400,400);
 }
