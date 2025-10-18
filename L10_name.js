@@ -25,6 +25,7 @@ function mousePressed(){
 function updateCountdown(){
     if(countdown > 0){
         countdown-=1;
+        console.log(Countdown);
     }else{
         clearInterval(interval);
         countdown = 5;
