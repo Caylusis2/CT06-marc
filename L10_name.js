@@ -1,5 +1,5 @@
 // write your codes here
-let Countdown = 5;
+let countdown = 5;
 let timerStarted = false;
 function setup(){
     createCanvas(400,400);
@@ -9,7 +9,7 @@ function setup(){
 
 function draw(){
     background(bgcolour);
-    text(Countdown, width/2, height/2 +20);
+    text(countdown, width/2, height/2 +20);
     interval = setInterval(updateCountdown, 1000);
 background(bgcolour1, bgcolour2, bgcolour);
 console.log(countdown);
