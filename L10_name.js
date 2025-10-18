@@ -26,3 +26,4 @@ function updateCountdown(){
         clearInterval(interval);
     }
 }
+
