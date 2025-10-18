@@ -8,7 +8,7 @@ function setup(){
 }
 
 function draw(){
-    background(bgcolo);
+    background(bgcolour);
     let h = hour();
     let m = minute();
     let s = second();
