@@ -8,6 +8,7 @@ function setup(){
 }
 
 function draw(){
+    interval = setInterval(updateCountdown, 1000);
     background(bgcolour);
     Text(countdown, width/2, height/2 + 20);
 }
