@@ -11,7 +11,7 @@ function draw(){
     background(bgcolour);
     text(countdown, width/2, height/2 +20);
     interval = setInterval(updateCountdown, 1000);
-background(bgcolour1, bgcolour2, bgcolour);
+
 console.log(countdown);
 }
 
