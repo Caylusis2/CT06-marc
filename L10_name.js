@@ -1,6 +1,6 @@
 // write your codes here
 let countdown = 5;
-let timerStarted
+let timerStarted = false;
 function setup(){
     createCanvas(400,400);
     textAlign(CENTER,CENTER);
