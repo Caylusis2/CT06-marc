@@ -9,7 +9,7 @@ function setup(){
 
 function draw(){
     background(bgcolour);
-    
+    text()
     interval = setInterval(updateCountdown, 1000);
 background(bgcolour1, bgcolour2, bgcolour);
 console.log(countdown);
