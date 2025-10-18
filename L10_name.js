@@ -36,4 +36,6 @@
 let inputText;
 let userText = "Your Text Here";
 
-functio
+function setup(){
+    createCanvas(600,400);
+}
