@@ -1,5 +1,5 @@
 // write your codes here
-// let countdown = 5;
+// let countdown = 5;                                                                                               
 // let interval;
 // let bgcolour;
 // function setup(){
