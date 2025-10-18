@@ -41,4 +41,4 @@ function setup(){
 }
 
 inputText = createInput();
-inputText
+inputText.position()
