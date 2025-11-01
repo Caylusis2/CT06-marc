@@ -94,4 +94,24 @@
 //     text("Pick a background color:", 20, 50);
 // }
 
+let inputText;
+let userText = "Your text here";
+let colorPicker;
+
+function setup(){
+    createCanvas(600,400);
+    inputText = createInput();
+    inputText.position(200, height-80);
+    inputText.input(updateText);
+
+    colorPicker = createColorPicker("#ffcc00");
+    colorPicker.position(200, height -45);
+}
+
+    fill(255);
+    rect(50, 100, 500, 160, 10);
+    fill(0);
+    textSize(18);
+    textAlign(CENTER,CENTER);
+    text(userText, width/2, 180);
 rect(x, y, width, height, curve);
