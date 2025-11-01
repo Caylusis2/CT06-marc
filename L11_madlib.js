@@ -32,10 +32,16 @@ function setup(){
 
 }
 function displayInput(){
-    background(220);
-    const inputValue = inputField.value();
-    textSize(64);
-    textAlign(CENTER,CENTER);
-    text(inputValue, 200, 100);
+    console.log(NounField.value());
+    console.log(VerbField.value());
+    console.log(AdjField.value());
+    console.log(AdverbField.value());
+    console.log(placeField.value());
+//     background(220);
+//     const inputValue = inputField.value();
+//     textSize(64);
+//     textAlign(CENTER,CENTER);
+//     text(inputValue, 200, 100);
+// }
 }
 
