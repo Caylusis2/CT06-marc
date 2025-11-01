@@ -18,9 +18,9 @@ function setup(){
     VerbField.position(55, 40);
 
     AdjField = createInput("Enter adjective here ");
-    inputField.position(55, 60);
+    AdjField.position(55, 60);
 
-    AdverbField = createInput("Enter text here ");
+    AdverbField = createInput("Enter adverb here ");
     inputField.position(55, 20);
 
     inputField = createInput("Enter text here ");
