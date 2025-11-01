@@ -75,3 +75,5 @@
 // }
 
 let nameInput;
+let ageInput;
+let color
