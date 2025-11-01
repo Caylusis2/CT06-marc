@@ -94,4 +94,4 @@
 //     text("Pick a background color:", 20, 50);
 // }
 
-rect(X, yield, innerWidth, innerHeight, curve);
+rect(x, y, innerWidth, innerHeight, curve);
