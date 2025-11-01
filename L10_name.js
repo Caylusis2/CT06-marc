@@ -94,45 +94,46 @@
 //     text("Pick a background color:", 20, 50);
 // }
 
-let inputText;
-let userText = "Your text here";
-let colorPicker;
+// let inputText;
+// let userText = "Your text here";
+// let colorPicker;
 
-let ageText;
-let ageValue = "Age"
+// let ageText;
+// let ageValue = "Age"
 
-function setup(){
-    createCanvas(600,400);
-    inputText = createInput();
-    inputText.position(200, height-110);
-    inputText.input(updateText);
+// function setup(){
+//     createCanvas(600,400);
+//     inputText = createInput();
+//     inputText.position(200, height-110);
+//     inputText.input(updateText);
 
-    ageText = createInput();
-    ageText.position(200, height -80);
-    ageText.input(updateAgeText);
+//     ageText = createInput();
+//     ageText.position(200, height -80);
+//     ageText.input(updateAgeText);
 
-    colorPicker = createColorPicker("#ffcc00");
-    colorPicker.position(200, height -45);
-}
-function draw(){
-    background(colorPicker.value());
+//     colorPicker = createColorPicker("#ffcc00");
+//     colorPicker.position(200, height -45);
+// }
+// function draw(){
+//     background(colorPicker.value());
 
-    fill(255);
-    rect(50, 100, 500, 160, 10);
-    fill(0);
-    textSize(18);
-    textAlign(CENTER,CENTER);
-    text(userText, width/2, 180);
-    text(ageValue, width/2, 220);
+//     fill(255);
+//     rect(50, 100, 500, 160, 10);
+//     fill(0);
+//     textSize(18);
+//     textAlign(CENTER,CENTER);
+//     text(userText, width/2, 180);
+//     text(ageValue, width/2, 220);
 
-    text("Pick a background color:", 100, height -32);
-    text("Name:", 100, height -110);
-    text("Age:", 100, height -80)
-}
-function updateText(){
-    userText = this.value();
-}
+//     text("Pick a background color:", 100, height -32);
+//     text("Name:", 100, height -110);
+//     text("Age:", 100, height -80)
+// }
+// function updateText(){
+//     userText = this.value();
+// }
 
-function updateAgeText(){
-    ageValue = this.value();
-}
+// function updateAgeText(){
+//     ageValue = this.value();
+// }
+
