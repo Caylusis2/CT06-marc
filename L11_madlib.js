@@ -6,5 +6,8 @@ let outputArea;
 
 function setup(){
     createCanvas()
+    background(220);
+
+    
 }
 
