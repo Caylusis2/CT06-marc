@@ -24,7 +24,7 @@ function setup(){
     AdverbField.position(55, 140);
 
     placeField = createInput("place");
-    placeField.position(55, 20);
+    placeField.position(55, 180);
 
     submitButton = createButton("show");
     submitButton.position(inputField.X + inputField.width + 10, inputField.y);
