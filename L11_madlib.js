@@ -7,3 +7,4 @@ let outputArea;
 function setup(){
     createCanvas()
 }
+
