@@ -23,7 +23,7 @@ function setup(){
     AdverbField = createInput("Enter adverb here ");
     AdverbField.position(55, 20);
 
-    PlaceField = createInput("Enter text here ");
+    placeField = createInput("Enter place here ");
     inputField.position(55, 20);
 
     submitButton = createButton("show");
