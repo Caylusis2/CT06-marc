@@ -5,7 +5,7 @@ let submitButton;
 let outputArea;
 
 function setup(){
-    createCanvas()
+    createCanvas(600,600)
     background(220);
 
     inputField = createInput("Enter text here ");
