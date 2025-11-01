@@ -44,4 +44,3 @@ function displayInput(){
 //     text(inputValue, 200, 100);
 // }
 }
-
