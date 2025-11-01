@@ -20,7 +20,7 @@ function setup(){
     AdjField = createInput("Enter adjective here ");
     inputField.position(55, 60);
 
-    inputField = createInput("Enter text here ");
+    AdverbField = createInput("Enter text here ");
     inputField.position(55, 20);
 
     inputField = createInput("Enter text here ");
