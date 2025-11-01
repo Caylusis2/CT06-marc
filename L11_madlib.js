@@ -15,10 +15,10 @@ function setup(){
     NounField.position(55, 20);
 
     VerbField = createInput("Verb");
-    VerbField.position(55, 40);
+    VerbField.position(55, 60);
 
     AdjField = createInput("Adjective");
-    AdjField.position(55, 60);
+    AdjField.position(55, 100);
 
     AdverbField = createInput("Adverb");
     AdverbField.position(55, 20);
