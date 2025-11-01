@@ -20,10 +20,10 @@ function setup(){
     AdjField = createInput("Adjective");
     AdjField.position(55, 60);
 
-    AdverbField = createInput("adverb here ");
+    AdverbField = createInput("Adverb");
     AdverbField.position(55, 20);
 
-    placeField = createInput("Enter place here ");
+    placeField = createInput("place here ");
     placeField.position(55, 20);
 
     submitButton = createButton("show");
