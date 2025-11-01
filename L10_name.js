@@ -127,7 +127,7 @@ function draw(){
 
     text("Pick a background color:", 100, height -32);
     text("Name:", 100, height -110);
-    text("Age")
+    text("Age:", 100)
 }
 function updateText(){
     userText = this.value();
