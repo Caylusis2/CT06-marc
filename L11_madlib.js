@@ -15,10 +15,10 @@ function setup(){
     NounField.position(55, 20);
 
     VerbField = createInput("Enter verb here ");
-    VerbField.position(55, 20);
+    VerbField.position(55, 40);
 
     inputField = createInput("Enter text here ");
-    inputField.position(55, 20);
+    inputField.position(55, 60);
 
     inputField = createInput("Enter text here ");
     inputField.position(55, 20);
