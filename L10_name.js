@@ -122,3 +122,4 @@ function draw(){
 function updateText(){
     userText = this.value();
 }
+
