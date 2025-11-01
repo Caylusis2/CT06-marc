@@ -23,3 +23,5 @@ function displayInput(){
     textAlign(CENTER,CENTER);
     text(inputValue, 200, 100);
 }
+
+function setup(){}
