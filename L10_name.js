@@ -123,7 +123,7 @@ function draw(){
     textSize(18);
     textAlign(CENTER,CENTER);
     text(userText, width/2, 180);
-    text(ageValue, wdith, );
+    text(ageValue, wdith/2, );
 
     text("Pick a background color:", 100, height -32);
 }
