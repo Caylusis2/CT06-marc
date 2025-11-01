@@ -21,7 +21,7 @@ function setup(){
     AdjField.position(55, 100);
 
     AdverbField = createInput("Adverb");
-    AdverbField.position(55, 20);
+    AdverbField.position(55, 140);
 
     placeField = createInput("place");
     placeField.position(55, 20);
