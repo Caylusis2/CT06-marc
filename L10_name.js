@@ -85,3 +85,10 @@ function setup(){
     colorPicker.position(200,32);
 }
 
+function draw(){
+    background(colorPicker.value());
+
+    textSize(16);
+    textAlign(LEFT);
+    fill(0);
+    text("Pick a background color:", 20, 50);
