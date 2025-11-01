@@ -4,7 +4,6 @@ let VerbField;
 let AdjField;
 let AdverbField;
 let placeField;
-let inputField;
 let submitButton;
 let outputArea;
 
