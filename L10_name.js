@@ -98,6 +98,9 @@ let inputText;
 let userText = "Your text here";
 let colorPicker;
 
+let ageText;
+
+
 function setup(){
     createCanvas(600,400);
     inputText = createInput();
