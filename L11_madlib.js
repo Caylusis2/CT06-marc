@@ -2,4 +2,8 @@
 
 let inputField;
 let submitButton;
-let outputAr
+let outputArea;
+
+function setup(){
+    createCanvas()
+}
