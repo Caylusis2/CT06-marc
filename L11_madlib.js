@@ -3,7 +3,7 @@ let NounField;
 let VerbField;
 let AdjField;
 let AdverbField;
-let
+let placeField;
 let inputField;
 let submitButton;
 let outputArea;
