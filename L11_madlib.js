@@ -11,6 +11,6 @@ function setup(){
     inputField = createInput("Enter text here ");
     inputField.position(55, 20);
 
-    submit
+    submitButton = create
 }
 
