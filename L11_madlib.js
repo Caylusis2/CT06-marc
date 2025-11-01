@@ -1,4 +1,5 @@
 // write your codes here
 
 let inputField;
-let submitButton
+let submitButton;
+let outputAr
