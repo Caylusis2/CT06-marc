@@ -9,6 +9,8 @@ function setup(){
     background(220);
 
     inputField = createInput("Enter text here ");
-    inputField.position(55, 20)
+    inputField.position(55, 20);
+
+    submit
 }
 
