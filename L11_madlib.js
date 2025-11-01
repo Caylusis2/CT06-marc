@@ -11,7 +11,7 @@ function setup(){
     createCanvas(600,600)
     background(220);
 
-    inputField = createInput("Enter text here ");
+    NounField = createInput("Enter text here ");
     inputField.position(55, 20);
 
     inputField = createInput("Enter text here ");
