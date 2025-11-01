@@ -99,7 +99,7 @@ let userText = "Your text here";
 let colorPicker;
 
 let ageText;
-
+let ageValue = "Age"
 
 function setup(){
     createCanvas(600,400);
