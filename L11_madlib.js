@@ -11,10 +11,10 @@ function setup(){
     createCanvas(600,600)
     background(220);
 
-    NounField = createInput("noun");
+    NounField = createInput("Noun");
     NounField.position(55, 20);
 
-    VerbField = createInput("Enter verb here ");
+    VerbField = createInput("verb");
     VerbField.position(55, 40);
 
     AdjField = createInput("Enter adjective here ");
