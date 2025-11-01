@@ -17,10 +17,10 @@ function setup(){
     VerbField = createInput("Verb");
     VerbField.position(55, 40);
 
-    AdjField = createInput("adjective here ");
+    AdjField = createInput("Adjective");
     AdjField.position(55, 60);
 
-    AdverbField = createInput("Enter adverb here ");
+    AdverbField = createInput("adverb here ");
     AdverbField.position(55, 20);
 
     placeField = createInput("Enter place here ");
