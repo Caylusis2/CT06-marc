@@ -119,3 +119,6 @@ function draw(){
 
     text("Pick a background color:", 100, height -32);
 }
+function updateText(){
+    userText = this.value();
+}
