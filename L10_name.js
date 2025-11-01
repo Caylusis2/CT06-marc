@@ -92,3 +92,4 @@ function draw(){
     textAlign(LEFT);
     fill(0);
     text("Pick a background color:", 20, 50);
+}
