@@ -8,6 +8,6 @@ function setup(){
     createCanvas()
     background(220);
 
-    inputField = createInput("")
+    inputField = createInput("Enter text here")
 }
 
