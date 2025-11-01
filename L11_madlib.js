@@ -14,7 +14,7 @@ function setup(){
     NounField = createInput("Enter noun here ");
     inputField.position(55, 20);
 
-    inputField = createInput("Enter text here ");
+    VerbField = createInput("Enter verb here ");
     inputField.position(55, 20);
 
     inputField = createInput("Enter text here ");
