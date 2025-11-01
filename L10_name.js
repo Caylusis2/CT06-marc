@@ -104,7 +104,7 @@ let ageValue = "Age"
 function setup(){
     createCanvas(600,400);
     inputText = createInput();
-    inputText.position(200, height-80);
+    inputText.position(200, height-110);
     inputText.input(updateText);
 
     ageText = createInput();
