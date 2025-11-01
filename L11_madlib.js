@@ -1,6 +1,7 @@
 // write your codes here
 let NounField;
-let 
+let VerbField;
+letAdjField;
 let inputField;
 let submitButton;
 let outputArea;
