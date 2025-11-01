@@ -107,6 +107,8 @@ function setup(){
     colorPicker = createColorPicker("#ffcc00");
     colorPicker.position(200, height -45);
 }
+function draw(){
+    background(colorPicker.value());
 
     fill(255);
     rect(50, 100, 500, 160, 10);
@@ -114,4 +116,6 @@ function setup(){
     textSize(18);
     textAlign(CENTER,CENTER);
     text(userText, width/2, 180);
-rect(x, y, width, height, curve);
+
+    text("Pick a background color:", 100, height -32);
+}
