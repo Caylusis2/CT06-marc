@@ -133,4 +133,6 @@ function updateText(){
     userText = this.value();
 }
 
-function updateAgeText()
+function updateAgeText(){
+    ageValue = this.value();
+}
