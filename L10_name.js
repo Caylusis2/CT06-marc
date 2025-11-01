@@ -74,23 +74,23 @@
 //     }
 // }
 
-let nameInput;
-let ageInput;
-let colorPicker;
+// let nameInput;
+// let ageInput;
+// let colorPicker;
 
-function setup(){
-    createCanvas(600,400);
+// function setup(){
+//     createCanvas(600,400);
 
-    colorPicker = createColorPicker("#ffcc00");
-    colorPicker.position(200,32);
-}
+//     colorPicker = createColorPicker("#ffcc00");
+//     colorPicker.position(200,32);
+// }
 
-function draw(){
-    background(colorPicker.value());
+// function draw(){
+//     background(colorPicker.value());
 
-    textSize(16);
-    textAlign(LEFT);
-    fill(0);
-    text("Pick a background color:", 20, 50);
-}
+//     textSize(16);
+//     textAlign(LEFT);
+//     fill(0);
+//     text("Pick a background color:", 20, 50);
+// }
 
