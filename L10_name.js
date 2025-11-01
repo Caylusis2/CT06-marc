@@ -94,4 +94,4 @@
 //     text("Pick a background color:", 20, 50);
 // }
 
-rect(XMLDocument, yield, innerWidth, height)
+rect(X, yield, innerWidth, innerHeight, curve);
