@@ -27,7 +27,7 @@ function setup(){
     placeField.position(55, 180);
 
     submitButton = createButton("show");
-    submitButton.position(inputField.X + inputField.width + 10, inputField.y);
+    submitButton.position(55,220);
     submitButton.mousePressed(displayInput);
 
 }
