@@ -6,7 +6,8 @@
 // let placeField;
 // let submitButton;
 // let outputArea;
-let storytext
+let storyText = "";
+
 
 // function setup(){
 //     createCanvas(600,600)
