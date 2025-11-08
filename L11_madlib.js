@@ -7,7 +7,7 @@
 // let submitButton;
 // let outputArea;
 let storyText = "";
-
+let storyTemplate;
 
 // function setup(){
 //     createCanvas(600,600)
