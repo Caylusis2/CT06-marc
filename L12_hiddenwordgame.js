@@ -4,4 +4,13 @@ let inputField;
 let submitButon;
 
 function setup(){
-    createCanvas(600, 400)
+    createCanvas(600, 400);
+
+    inputField = createInput(" ");
+    inputField.position(55, 20);
+
+    submitButton = createButton("show");
+    submitButton.position(55, 60);
+    submitButton.mousePressed(displayInput);
+}
+
