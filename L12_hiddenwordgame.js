@@ -1,4 +1,7 @@
 // write your codes here
 
 let inputField;
-l
+let submitButon;
+
+function setup(){
+    createCanvas(600, 400)
