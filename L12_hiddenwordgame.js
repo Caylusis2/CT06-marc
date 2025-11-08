@@ -14,3 +14,6 @@ function setup(){
     submitButton.mousePressed(displayInput);
 }
 
+function displayInput(){
+    text(inputField.value(), 55, 100);
+}
